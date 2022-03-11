@@ -1,0 +1,77 @@
+<!Doctype html!>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> JV KOREA-FOOD BLOG</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style6.css">
+</head>
+<body>
+    <nav>
+        <h1> KOREA FOOD</h1>
+        <div class="onglets">
+            <a href="#">K-acceuille</a>
+            <a href="#miam>"K-Recettes"</a>
+            <a href="#ustensiles"> K-Ustensiles</a>
+            <a href="#more">+ de K-Infos</a>
+        </div>
+    </nav>
+    <header>
+        <h1>KOREA FOOD</h1>
+        <h4> Découvrez le meilleur de la cuisine coréenne.</h4>
+        <button> Découvrir</button>
+    </header>
+    <p>
+      <h2>Bienvenue sur mon KOREA-FOOD BLOG ici vous découvrirez tout ce qu'ils y à savoir sur la culture Coréenne et principalement la nourriture!!</h2>
+
+    <section class="main" id="produits">
+
+        <div class="content">
+            <div class="card">
+                <div class="right">
+                    <h1>K-recettes</h1>
+                    <p> Decouvrez nos succulentes recettes aux belles couleurs de la Corée!Laissez de nouvelles saveur envahir vos si précieuse papilles gustatives en participant à ces explosions de saveur!!!Invitez des plats comme le Kimbap, le bibimpap et le bulgoji à vos repas de famille et vous ne serez pas deçu.N'hésitez surtout pas à gouter notre dessert favori :le Bingsu </p>
+                </div>
+                <div class="left">
+                    <img src="https://leyzia.b-cdn.net/wp-content/uploads/2019/05/kimbap.jpg" width="500" height="500""alt">
+                    <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/https://nihonkara.fr/wp-content/uploads/2019/05/bibimbap-1024x682.jpg"width="500" height="500""alt">
+                    <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/https://nihonkara.fr/wp-content/uploads/2019/05/bulgogi-1024x682.jpg"width="500" height="500""alt">
+                    <img src="https://leyzia.b-cdn.net/wp-content/uploads/2019/06/bingsu.jpg"width="500" height="500""alt">
+             
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="left">
+                    <h1>K-Ustensiles</h1>
+                    <p>Ici vous trouverez la liste des différents ustensiles dont vous devez vous munir afin de réaliser nos différentes k-recettes. </p>
+                </div>
+                <div class="right">
+                    <img src="https://scally.typepad.com/.a/6a00d8341c676f53ef017c3856d1ac970b-pi"width="500" height="500" "alt=">
+                </div>
+            </div>
+           < div class="card">
+                <div class ="right">
+                    <h1>K-Infos </h1>
+                    <p>Nous ne nous limitons pas seulement à la nouriture mais nous explorons toute la culture Coréenne. Dans cette partie decouvrez la K-pop notament par le boys-band du moment : BTS♥♥♥♥♥♥♥</p>
+                     <img src="https://static.wikia.nocookie.net/the-bangtan-boys/images/2/23/BTS_Butter_Album_Version_2.jpg/revision/latest/scale-to-width-down/700?cb=20210628150527""alt">
+                    <a href="https://youtu.be/gdZLi9oWNZg"> YouTube</a>
+        </div>
+    </section>
+
+    <footer>
+
+        <h1> Bon à savoir</h1>
+        <div class="Bon à savoir">
+            
+            <div class="Bon a savoir">
+                <h3> Le JV KOREA-FOOD BLOG RECRUTE</h3>
+                <p>A tous les intéressés de K-Culture, le blog recrute!! Nous avons besoin d'esprit créatif et autant passionné que nous alors vous êtes les bienvenues</p>
+            </div>
+        </div>
+
+        <p id="contact">Contact : 08 55 26 824 8 | &copy; 2022, JV KOREA-FOOD BLOG.</p>
+    </footer>
+</body>
+</html>
